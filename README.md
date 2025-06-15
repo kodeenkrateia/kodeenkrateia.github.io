@@ -1,6 +1,6 @@
 ---
 layout: home
-title: El camino del sysadmin
+title: The Sysadmin path
 permalink: /
 ---
 
